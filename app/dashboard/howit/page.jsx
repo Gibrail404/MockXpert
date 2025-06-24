@@ -10,10 +10,10 @@ const HowItWorks = () => {
   return (
     <>
       <Head>
-        <title>How It Works - AI Mock Interview</title>
+        <title>How It Works - MockXpert</title>
         <meta
           name="description"
-          content="Learn how our AI Mock Interview works."
+          content="Learn how our MockXpert works."
         />
       </Head>
       <main className="bg-gray-100 p-8 mt-10">

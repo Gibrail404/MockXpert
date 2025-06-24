@@ -8,13 +8,13 @@ import { FaGithub } from "react-icons/fa";
 const page = () => {
   return (
     // <div className='p-10 flex flex-col items-center justify-center' >
-    //   <h1 className='red font-bold text-[22px]'>Welcome to AI Mock Interview</h1>
+    //   <h1 className='red font-bold text-[22px]'>Welcome to MockXpert</h1>
     // <a  ><h1><Button>Start</Button></h1></a>
     // </div>
 
     <div>
       <Head>
-        <title>AI Mock Interview</title>
+        <title>MockXpert</title>
         <meta name="description" content="Ace your next interview with AI-powered mock interviews" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -23,23 +23,14 @@ const page = () => {
         {/* Header Section */}
         <header className="w-full py-8 bg-gray-100 shadow-md">
           <div className="container mx-auto flex flex-col md:flex-row justify-between items-center px-6">
-            <h1 className="text-3xl font-bold text-primary">AI Mock Interview</h1>
+            <h1 className="text-3xl font-bold text-primary">MockXpert</h1>
             <nav className="flex flex-col sm:flex-row flex-wrap items-center justify-between mt-4 md:mt-0 space-y-4 sm:space-y-0 sm:space-x-4">
-              <div>
-                <iframe
-                  src="https://github.com/sponsors/modamaan/button"
-                  title="Sponsor modamaan on GitHub"
-                  height="32"
-                  width="114"
-                  className="border-0 rounded-lg">
-                </iframe>
-              </div>
 
               <div>
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
-                  href="https://github.com/modamaan/Ai-mock-Interview">
+                  href="https://github.com/Gibrail404/MockXpert">
                   <FaGithub className="w-10 h-8" />
                 </a>
               </div>
@@ -78,12 +69,12 @@ const page = () => {
           <div className="container mx-auto text-center">
             <h2 className="text-4xl font-bold text-gray-800">Features</h2>
             <p className="mt-4 text-lg text-gray-800">
-              Our AI Mock Interview platform offers a range of powerful features:
+              Our MockXpert platform offers a range of powerful features:
             </p>
             <div className="flex flex-wrap justify-center mt-8">
               <div className="w-full md:w-1/3 px-4 py-8">
                 <div className="bg-blue-100 rounded-lg p-6 shadow-md">
-                  <h3 className="text-2xl font-semibold text-black-600">AI Mock Interviews</h3>
+                  <h3 className="text-2xl font-semibold text-black-600">MockXpert</h3>
                   <p className="mt-2 text-gray-600">Experience realistic interview scenarios with our advanced AI.</p>
                 </div>
               </div>
@@ -135,7 +126,7 @@ const page = () => {
       </main>
 
       <footer className="py-8 bg-black text-white text-center">
-        <p>© 2024 AI Mock Interview. All rights reserved.</p>
+        <p>© 2024 MockXpert. All rights reserved.</p>
       </footer>
     </div>
   )
