@@ -17,15 +17,15 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/modamaan/Ai-mock-Interview.git
+   git clone https://github.com/Gibrail404/MockXpert.git
 
 2. Navigate to the project directory:
    ```bash
-   cd ai-mock-interview
+   cd MockXpert
 
-3. Install dependencies by running: `npm install` or `yarn install`
+3. Install dependencies by running: `npm install`
 
-4. Start the Server `npm run dev` or `yarn dev`
+4. Start the Server `npm run dev`
 
 5. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
 
@@ -46,7 +46,7 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 
 ## Feedback
 
-If you have any feedback, please reach me at [mohamedamaan319@gmail.com](mailto:mohamedamaan319@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedamaan319/).
+If you have any feedback, please reach me at [gibrailzaidi@gmail.com](mailto:gibrailzaidi@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/gibrailzaidi/).
 
 
 ## Contributing
